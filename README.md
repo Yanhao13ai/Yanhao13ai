@@ -45,5 +45,20 @@ Snake
     alt="GitHub Contribution Snake" 
     src="https://raw.githubusercontent.com/Yanhao13ai/Yanhao13ai/output/github-contribution-grid-snake.svg">
 </picture>
+<!-- 
+3D Contribution
+-->
+<picture>
+  <source 
+    media="(prefers-color-scheme: dark)" 
+    srcset="./profile-3d-contrib/profile-night-rainbow.svg">
+  <source 
+    media="(prefers-color-scheme: light)" 
+    srcset="./profile-3d-contrib/profile-gitblock.svg">
+  <img 
+    alt="3D Contribution Graph" 
+    src="./profile-3d-contrib/profile-night-rainbow.svg">
+</picture>
+
 
 

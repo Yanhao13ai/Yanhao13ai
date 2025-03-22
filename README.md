@@ -24,10 +24,6 @@ Stats of Lang Used
 -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yanhao13ai&size_weight=0.5&count_weight=0.5&langs_count=8)
 <!--
-Visitors Bagde
--->
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Yanhao13ai&left_color=green&right_color=red)
-<!--
 Activities Graph
 -->
 ![Yanhao's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Yanhao13ai&theme=xcode)
